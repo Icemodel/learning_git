@@ -1,4 +1,3 @@
-## Welcome to Dev Jsm branch!
+## Welcome to Dev Ice branch!
 
--"I'm adding this from bug-fix-branch"
--"This is coming from 'Icemodel'"
+-"Hi, I'm Ice and welcome to my git branch!"
