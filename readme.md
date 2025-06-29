@@ -1,4 +1,3 @@
-## Welcome to Dev Jsm branch!
+## Hello everyone, welcome to my branch!
 
--"I'm adding this from bug-fix-branch"
 -"This is coming from 'JSM'"
