@@ -1,3 +1,3 @@
-## Welcome to Dev Ice branch!
+## Hello everyone, welcome to my branch!
 
--"Hi, I'm Ice and welcome to my git branch!"
+-"This is coming from 'JSM'"
